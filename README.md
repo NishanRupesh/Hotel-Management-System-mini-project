@@ -15,7 +15,7 @@ Hotel Management System is an application built using Java Swing, iTextpdf and M
 * MySQL Server 5.7 or higher
 * Any IDE 
 
-**PREVIEW**GO
+**PREVIEW**
 ![Login page](https://github.com/NishanRupesh/Hotel-Management-System-mini-project/blob/main/snapshots/LOGIN.png)
 ![Sign up page](https://github.com/NishanRupesh/Hotel-Management-System-mini-project/blob/main/snapshots/SIGNUP.png)
 ![Admin page](https://github.com/NishanRupesh/Hotel-Management-System-mini-project/blob/main/snapshots/ADMIN.png)

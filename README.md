@@ -1,5 +1,6 @@
 # Hotel-Management-System-mini-project
 Hotel Management System is an application built using Java Swing, iTextpdf and MySQL. The application is developed for the staff of the apartment to manage and serve their customers.
+
 **FEATURES**
 * An admin page that verifies new recruits
 * Register new rooms and keep track of all rooms
